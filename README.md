@@ -1,3 +1,4 @@
+#Celowy opis do testu konfliktu
 
 # moje-pierwsze-repo
 ## Sprawdzenie makrdownow z pałzną
