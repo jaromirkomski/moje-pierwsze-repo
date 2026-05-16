@@ -1,3 +1,4 @@
+
 # To zmiana mian
 #Celowy opis do testu konfliktu
 
