@@ -1,3 +1,4 @@
+#Konflikt
 #Celowy opis do testu konfliktu
 
 # moje-pierwsze-repo
